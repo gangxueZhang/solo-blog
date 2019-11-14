@@ -10,6 +10,7 @@ gangxueZhang 的个人博客
 
 ### 最新
 
+* [maven安装本地jar包](http://windless.cn:8080/articles/2019/11/14/1573696172937.html)
 * [世界，你好！](http://windless.cn:8080/hello-solo)
 
 
